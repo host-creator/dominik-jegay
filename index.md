@@ -3,7 +3,7 @@
   
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Increment count when button is clicked</title>
+    <title>GUY A GAY</title>
 </head>
   
 <body style="text-align: center;">
