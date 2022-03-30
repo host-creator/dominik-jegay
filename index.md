@@ -21,7 +21,7 @@
   
     <p>
         Button Clicked <span 
-        id="display">0</span> Times
+        id="display">5</span> Times
     </p>
   
     <script type="text/javascript">
