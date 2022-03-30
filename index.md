@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <html>
   
 <head>
@@ -12,7 +12,7 @@
     </h1>
   
     <h4>
-      Kolko sa pripojí ??  
+      Kdo sa pripojí ??  
       
     </h4>
   
@@ -36,3 +36,24 @@
 </body>
   
 </html>
+
+
+
+
+
+
+<div>
+  <h1>WOLLEE</h1>
+</div><br />
+<div class="dropdown">
+  <form>
+    <select name="list" id="list" accesskey="target" onchange="showOptions(this); buttonClicked(this)">
+      <option value="none">Vyber si BROO</option>
+      <option value="GAY">GAY</option>
+    </select>
+    <input type=button id="but" value="Select" onclick="showOptions(); buttonClicked()" />
+    <div><mark id="coutner"></mark></div>
+  </form>
+
+</div>
+<div id="div"></div>
